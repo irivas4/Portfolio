@@ -1,0 +1,596 @@
+commit 642af3aa439f157d5427c16e4b2278332cac0894
+Author: Aiden <akim154@jhu.edu>
+Date:   Wed Oct 25 21:39:35 2023 -0400
+
+    created gitlog.txt
+
+commit 88fe6c9e82ba00e0c0366d087517fca807b4f9fe
+Author: irivas4@jh.edu <irivas4@ugrad5.cs.jhu.edu>
+Date:   Wed Oct 25 11:20:27 2023 -0400
+
+    Update W
+
+commit b2bb6bf3df5a5d8932b68ae0ef002323ef3214a1
+Author: irivas4@jh.edu <irivas4@ugrad5.cs.jhu.edu>
+Date:   Wed Oct 25 11:16:53 2023 -0400
+
+    Update W
+
+commit 6716b5c5c6db8e30826f1877ae4f3af490760306
+Author: Aiden <akim154@jhu.edu>
+Date:   Wed Oct 25 11:14:02 2023 -0400
+
+    Updated README
+
+commit a7d662ef831e4aaddbae5da0361294723b130dc7
+Author: irivas4@jh.edu <irivas4@ugrad5.cs.jhu.edu>
+Date:   Wed Oct 25 10:50:01 2023 -0400
+
+    Update W
+
+commit 9b83b79269f6cb05f3c4f455c4009617c1609f97
+Author: irivas4@jh.edu <irivas4@ugrad5.cs.jhu.edu>
+Date:   Wed Oct 25 10:35:53 2023 -0400
+
+    Update README
+
+commit 609e5a430e59474354909fe19f63e5a7e3aa84b5
+Author: Aiden <akim154@jhu.edu>
+Date:   Wed Oct 25 01:40:49 2023 -0400
+
+    Removed unnecessary functions and edited W command
+
+commit fac0cf3442184642c9fce105ef846403a42f9279
+Author: Aiden <akim154@jhu.edu>
+Date:   Wed Oct 25 01:39:16 2023 -0400
+
+    Removed unnecessary headers
+
+commit e9c637760104f2f0ee65a7d90b026a30606c7ade
+Author: Aiden <akim154@jhu.edu>
+Date:   Wed Oct 25 01:38:39 2023 -0400
+
+    Edited main function to account for stdin and file input
+
+commit 15b57bbf07d0047b9d8898a3c5a50e47cb733df3
+Author: Aiden <akim154@jhu.edu>
+Date:   Tue Oct 24 20:28:01 2023 -0400
+
+    Added comments to T command functions
+
+commit 8ac8bac804b819429058cb33963e1dc59fe865a7
+Author: irivas4@jh.edu <irivas4@ugrad5.cs.jhu.edu>
+Date:   Tue Oct 24 16:28:16 2023 -0400
+
+    Update V command
+
+commit 661f71f77ad3d310bc55661dbef378c992d38afa
+Author: irivas4@jh.edu <irivas4@ugrad5.cs.jhu.edu>
+Date:   Tue Oct 24 15:55:36 2023 -0400
+
+    Update V
+
+commit 16e16b17238a6e0287e6538fdf4c06a333225207
+Author: Aiden <akim154@jhu.edu>
+Date:   Tue Oct 24 14:03:35 2023 -0400
+
+    Debugged V command in main
+
+commit e2568a175318179df073d623440d403de17bdbdd
+Author: Aiden <akim154@jhu.edu>
+Date:   Tue Oct 24 14:03:00 2023 -0400
+
+    Removed unnecessary comments for removed function
+
+commit 433bdd4d330a2660c6e456f6d3e02e113b914c39
+Author: Aiden <akim154@jhu.edu>
+Date:   Tue Oct 24 13:59:57 2023 -0400
+
+    Removed an unecessary function header
+
+commit 94ae6d9adee05428281ae30a734256b24fcb54f5
+Author: Aiden <akim154@jhu.edu>
+Date:   Tue Oct 24 13:49:07 2023 -0400
+
+    Edited S command in switch statement
+
+commit 2bda087acca7cfa86e5243d1bc36ef05fffd7250
+Author: Aiden <akim154@jhu.edu>
+Date:   Tue Oct 24 13:47:26 2023 -0400
+
+    Edited solve_Puzzle and puzzle_move_tile
+
+commit a941c18b95c0952ec3139de1efd1dad15752b308
+Author: Aiden <akim154@jhu.edu>
+Date:   Tue Oct 24 13:44:41 2023 -0400
+
+    Edited S command
+
+commit be53dd79923e4c7aaafa80e24e5f4b9ecbb0a2e2
+Author: Aiden <akim154@jhu.edu>
+Date:   Tue Oct 24 13:27:57 2023 -0400
+
+    Debugged main function
+
+commit feb6b98e2d3c0836c6e620a4768ba507bddc886a
+Author: Aiden <akim154@jhu.edu>
+Date:   Tue Oct 24 13:21:36 2023 -0400
+
+    Debugged solve_Puzzle function
+
+commit d6e15d62e0c899434744919ce0c27a42700fc41b
+Author: Aiden <akim154@jhu.edu>
+Date:   Tue Oct 24 13:14:53 2023 -0400
+
+    Edited main function run without file input
+
+commit d8831ca71d2bf619fadda376bfed174b4f533d4b
+Author: Aiden <akim154@jhu.edu>
+Date:   Tue Oct 24 12:49:59 2023 -0400
+
+    Commented functions and edited V command
+
+commit a878f222d6623f87454256d89bf78e7c52a379f1
+Author: irivas4@jh.edu <irivas4@ugrad5.cs.jhu.edu>
+Date:   Tue Oct 24 10:48:28 2023 -0400
+
+    Update V
+
+commit a2954deef87039e98e132bc4508580eb588166b1
+Author: irivas4@jh.edu <irivas4@ugrad5.cs.jhu.edu>
+Date:   Mon Oct 23 23:43:32 2023 -0400
+
+    Update
+
+commit 1887cf2479f4c00478ec8dd8f00e0d5326061241
+Author: irivas4@jh.edu <irivas4@ugrad5.cs.jhu.edu>
+Date:   Mon Oct 23 23:35:06 2023 -0400
+
+    Update V/S
+
+commit d3f2076bbdcf403a3f87016da37455264f126862
+Author: irivas4@jh.edu <irivas4@ugrad5.cs.jhu.edu>
+Date:   Mon Oct 23 23:19:57 2023 -0400
+
+    Update V/S command
+
+commit b35b16fddf6abdfac8dfa747b9e7a509319e289e
+Author: Aiden <akim154@jhu.edu>
+Date:   Mon Oct 23 19:46:57 2023 -0400
+
+    Updated V command function
+
+commit 610c5871dd36538e5bf6704bb926bcc2f79ecacd
+Merge: 9ca9035 8187d91
+Author: Aiden <akim154@jhu.edu>
+Date:   Mon Oct 23 19:42:03 2023 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit 9ca9035bb038eeec86ba6a987cb01a8406ee215f
+Author: Aiden <akim154@jhu.edu>
+Date:   Mon Oct 23 19:41:54 2023 -0400
+
+    Created move function specific for V command
+
+commit 8187d91a247f40a73d5ff4ac364a2d6a8c7af9bc
+Author: irivas4@jh.edu <irivas4@ugrad5.cs.jhu.edu>
+Date:   Mon Oct 23 19:40:38 2023 -0400
+
+    Add helper function for V
+
+commit 6e5979173ef8569b4627f50cc0f450269f18139a
+Author: Aiden <akim154@jhu.edu>
+Date:   Mon Oct 23 19:36:06 2023 -0400
+
+    Editing V command and added comments
+
+commit 04704189777e59819376e1b68ebfd75f5e813608
+Author: irivas4@jh.edu <irivas4@ugrad5.cs.jhu.edu>
+Date:   Mon Oct 23 19:26:03 2023 -0400
+
+    Updated W
+
+commit 9c8131a5864cc8757c5c867dcdd44a8c12c9186e
+Merge: 6d97b4c 24b13b9
+Author: Aiden <akim154@jhu.edu>
+Date:   Mon Oct 23 19:18:30 2023 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit 6d97b4ca2aebf20c28073ea661b333745845a90f
+Author: Aiden <akim154@jhu.edu>
+Date:   Mon Oct 23 19:18:22 2023 -0400
+
+    Added comments to functions
+
+commit 945750d58e97ba8f98469ed9902afb2c0943b5ea
+Author: Aiden <akim154@jhu.edu>
+Date:   Mon Oct 23 19:17:43 2023 -0400
+
+    Updated headers
+
+commit 24b13b95a80555b202052399690f04eee181ddc1
+Author: irivas4@jh.edu <irivas4@ugrad5.cs.jhu.edu>
+Date:   Mon Oct 23 19:16:38 2023 -0400
+
+    Update Commands
+
+commit e316ebdc89971b59410cf90c512c6c76a26a91d2
+Author: Aiden <akim154@jhu.edu>
+Date:   Mon Oct 23 19:15:34 2023 -0400
+
+    Added header for V function
+
+commit 42a0e836c1dcc1548781b7d78dc234b93c0ba4b2
+Author: irivas4@jh.edu <irivas4@ugrad5.cs.jhu.edu>
+Date:   Mon Oct 23 15:24:41 2023 -0400
+
+    Updated Commands
+
+commit 237111b41ef0d7cb812e39542f06fa8410983453
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Mon Oct 23 11:14:47 2023 -0400
+
+    Update Commands
+
+commit 1e83acc404022884d71d4aa593c35be603354357
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Mon Oct 23 00:16:24 2023 -0400
+
+    Update K
+
+commit b97f9d1a5c40b96dd1e4b12f8697ffd25ec967e4
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Sun Oct 22 19:35:15 2023 -0400
+
+    Updated T function
+
+commit e3c4179d49285ba8a74d55ec5e584939112e2db4
+Merge: b60e7f3 9cae5c2
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Sun Oct 22 19:34:44 2023 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit b60e7f37041bd0d8ecce5d42ce56dcf1e5906498
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Sun Oct 22 19:34:25 2023 -0400
+
+    Updated T command
+
+commit 9cae5c21ccfef68216e9713a3d57c1e66ccf7f61
+Author: Aiden <akim154@jhu.edu>
+Date:   Sun Oct 22 19:13:34 2023 -0400
+
+    Added a test function for image commands
+
+commit 1dcaae6718ba17b9ee63ad56c93fe941ec24326d
+Author: Aiden <akim154@jhu.edu>
+Date:   Sun Oct 22 19:04:10 2023 -0400
+
+    Updated print statements in functions
+
+commit fc65312a0b10138b639bad676541c739cea30634
+Author: Aiden <akim154@jhu.edu>
+Date:   Sun Oct 22 18:42:12 2023 -0400
+
+    Commented some functions
+
+commit 3de79346e49db599820dd668eeb2dcb553f55f99
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Sun Oct 22 18:38:02 2023 -0400
+
+    updated puzzle_funcs
+
+commit 9953879a61f722fcfc82664438511381a4934a6d
+Author: Aiden <akim154@jhu.edu>
+Date:   Sun Oct 22 18:35:45 2023 -0400
+
+    Updated test functions
+
+commit 926f2a2f211087ad67e5dc36054003d5f7948e38
+Author: Aiden <akim154@jhu.edu>
+Date:   Sun Oct 22 18:24:45 2023 -0400
+
+    Added more test functions
+
+commit 013a512effcef5ea57f386ed3cf6f481fb1e7066
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Fri Oct 20 16:03:27 2023 -0400
+
+    Updated W command, Made MakeFile, Fixed errors, Now compiles
+
+commit 8c4ca850b5eba5a773d026a575bb6eee7daa1f25
+Merge: aa1832d 33f6d10
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Wed Oct 18 11:16:14 2023 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit aa1832d34bdf7d418eafc1460eb494eb72128071
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Wed Oct 18 11:15:57 2023 -0400
+
+    Update W Command
+
+commit 33f6d10c6e50557bd5b8c1ef53ca9e8668c27d61
+Author: Aiden <akim154@jhu.edu>
+Date:   Wed Oct 18 11:15:39 2023 -0400
+
+    Updated S command test function
+
+commit b914bc70081a1b6ef34a5f455ad2178de485ad13
+Author: Aiden <akim154@jhu.edu>
+Date:   Wed Oct 18 10:59:46 2023 -0400
+
+    Created test function for S command
+
+commit 08eefdfde6b24d0886d0f8a98f7b4243f3bba49a
+Merge: 20b6aa6 5289f34
+Author: Aiden <akim154@jhu.edu>
+Date:   Sat Oct 14 12:52:29 2023 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit 20b6aa63c131054c55f2d92a6e6c0c51a48ac202
+Author: Aiden <akim154@jhu.edu>
+Date:   Sat Oct 14 12:52:12 2023 -0400
+
+    Updated V command in puzzle_funcs.c
+
+commit 5289f345dd3503079f0b97266e72def89440f240
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Sat Oct 14 12:49:21 2023 -0400
+
+    Updated K command usage
+
+commit 145e73098701cde7ca55aa82ea8c48f9451ebe37
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Sat Oct 14 12:42:30 2023 -0400
+
+    V Command updated
+
+commit bffc694a282641718ef90be4cbe802c21bbaf755
+Author: Aiden <akim154@jhu.edu>
+Date:   Sat Oct 14 12:34:47 2023 -0400
+
+    Added error handling in puzzle.c
+
+commit 7a7154d339006a31d37d6dec2ce443dd75095fa9
+Author: Aiden <akim154@jhu.edu>
+Date:   Sat Oct 14 12:16:36 2023 -0400
+
+    Added headers in puzzle.h
+
+commit e765156da1051946f468b85979b223e919f2f06a
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Sat Oct 14 12:12:05 2023 -0400
+
+    Updated W Command
+
+commit a186b54b2680380e5ee394cabcef5b0389e171e8
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Fri Oct 13 21:23:23 2023 -0400
+
+    Update W Command
+
+commit f53cd67c7ee62de9d0e7820be6be6147fb116a20
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Fri Oct 13 17:58:04 2023 -0400
+
+    Updated W command
+
+commit 5d2c389818f959c0a00681b66c8fbe0e94a3c28a
+Merge: 6351897 36841f1
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Fri Oct 13 10:58:36 2023 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit 6351897ea4249c59b97e01f993b40d955edd60f9
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Fri Oct 13 10:58:28 2023 -0400
+
+    Starting W command
+
+commit 36841f1dd3213fe1544dd25b592a721c95a476f0
+Author: Aiden <akim154@jhu.edu>
+Date:   Fri Oct 13 10:48:30 2023 -0400
+
+    Added p function in puzzle.c
+
+commit b9ce5c25783f252d3c3739c4e85df2b0401d45d8
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Fri Oct 13 10:45:51 2023 -0400
+
+    Call K and T commands
+
+commit d71650578b6cf1c3d5daedc59702e4381249f62a
+Author: Aiden <akim154@jhu.edu>
+Date:   Fri Oct 13 10:44:53 2023 -0400
+
+    Created print function in puzzle_funcs.c
+
+commit 372691790322e21ddcc98d58f2051b704a2355a5
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Fri Oct 13 10:41:49 2023 -0400
+
+    K command Updated
+
+commit ce4aea94d635316cfc3a7164d8d3ee42006b1b6e
+Author: Aiden <akim154@jhu.edu>
+Date:   Fri Oct 13 10:24:07 2023 -0400
+
+    Updated s command header in puzzle.h
+
+commit 062f393cad8fba4ab84d9d6e651a4820136c0d1c
+Author: Aiden <akim154@jhu.edu>
+Date:   Fri Oct 13 10:23:05 2023 -0400
+
+    Updated s command in puzzle_funcs.c
+
+commit c40b390fe49bc8936dc4c18ca2001691af63b81a
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Fri Oct 13 10:17:09 2023 -0400
+
+    Updated T command
+
+commit fe3f8f4477869ff40490588ce2266ebb6b07f0a0
+Merge: 7d556d6 9d12814
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Fri Oct 13 10:13:37 2023 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit 7d556d6a361d3366a57a9b0af7379d5922fda3c9
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Fri Oct 13 10:12:57 2023 -0400
+
+    update T command
+
+commit 9d1281456176c36c412d9849f18b5c3d4e54ebb3
+Author: Aiden <akim154@jhu.edu>
+Date:   Fri Oct 13 10:09:28 2023 -0400
+
+    Updated helper functions for s command in puzzle.h
+
+commit a49013d42c4c888290b1ddbffd5cf49fabfe8296
+Author: Aiden <akim154@jhu.edu>
+Date:   Fri Oct 13 10:08:52 2023 -0400
+
+    Updated s command in puzzle.c
+
+commit 1bbaaebae3e2bfecb000fdf51dd67faceeb133c4
+Author: Aiden <akim154@jhu.edu>
+Date:   Fri Oct 13 01:11:07 2023 -0400
+
+    Created helper function for s command in puzzle_funcs.c
+
+commit efb9cb7579842dce6e1b15a58ec47f3e567c857e
+Author: Aiden <akim154@jhu.edu>
+Date:   Fri Oct 13 00:47:54 2023 -0400
+
+    Updated c command for puzzle.c
+
+commit 5e5568bd71fcb494902f7b07186e7368ef1ca5ab
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Wed Oct 11 16:19:58 2023 -0400
+
+    Worked on T/C Commands
+
+commit 54974dab2c493f4daca9f36266f6219945b6859e
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Wed Oct 11 11:52:40 2023 -0400
+
+    Updated C command
+
+commit cc630733da523670aa4f2ad05e771c57665fe0be
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Wed Oct 11 11:18:28 2023 -0400
+
+    Working on C command
+
+commit 6939d354d5c3287ae1660fb12433880dae3ea292
+Author: Aiden <akim154@jhu.edu>
+Date:   Wed Oct 11 11:17:14 2023 -0400
+
+    created basis of move function in puzzle.c
+
+commit 486bf2ca19d6d0fce51cd41c213b35fe40428f9b
+Author: Aiden <akim154@jhu.edu>
+Date:   Wed Oct 11 11:09:39 2023 -0400
+
+    added print function in puzzle.h
+
+commit 70b844612d4944f7aab5331760c4c8d1eba608d0
+Author: Aiden <akim154@jhu.edu>
+Date:   Wed Oct 11 11:04:26 2023 -0400
+
+    edited c command with helper function in puzzle.c
+
+commit 3f2bf78150ca8e4df118a07315e95119bdbcf84b
+Author: Aiden <akim154@jhu.edu>
+Date:   Wed Oct 11 10:54:36 2023 -0400
+
+    added more helper functions in puzzle.h
+
+commit cf8bfbcf12324f2a13b0e5fbb50916baac563ac8
+Author: Aiden <akim154@jhu.edu>
+Date:   Wed Oct 11 10:49:10 2023 -0400
+
+    added helper functions in puzzle.h
+
+commit bb0023ae67b6d52aa44ec56f57a1d22a0120227e
+Merge: b3b99b9 fc508ce
+Author: Aiden <akim154@jhu.edu>
+Date:   Wed Oct 11 10:38:07 2023 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit b3b99b9cefa56baf17a280a3c6d1a5fad4c48470
+Author: Aiden <akim154@jhu.edu>
+Date:   Wed Oct 11 10:36:59 2023 -0400
+
+    updated c command in puzzle.c
+
+commit fc508ce93e4f3a35dbb4b29418fb6473306ef615
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Wed Oct 11 10:26:52 2023 -0400
+
+    Add Puzzle Struct
+
+commit 0da0749c3ce39ed91af9f071d983813ac54c5d65
+Author: Aiden <akim154@jhu.edu>
+Date:   Wed Oct 11 10:24:05 2023 -0400
+
+    updated puzzle.c
+
+commit 2a2349acaee0b35e6f6ebe27fed78baff5109a88
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Wed Oct 11 10:15:07 2023 -0400
+
+    I command created
+
+commit 1cb5981cdd203081d30362e94eedba0eb0811bd9
+Author: Aiden <akim154@jhu.edu>
+Date:   Wed Oct 11 09:39:40 2023 -0400
+
+    created c command in puzzle.c
+
+commit 84bf600a2e35a4117d98890e734703ac5ef6d2d1
+Author: Aiden <akim154@jhu.edu>
+Date:   Tue Oct 10 21:13:22 2023 -0400
+
+    updated puzzle.c
+
+commit 08ce1526b4e9161282a0cdc2bd8309d46d60836d
+Merge: 2d615d3 3e89b96
+Author: Aiden <akim154@jhu.edu>
+Date:   Tue Oct 10 21:08:55 2023 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit 2d615d395ad43746a658f97a6f056a3272819fd4
+Author: Aiden <akim154@jhu.edu>
+Date:   Tue Oct 10 21:03:29 2023 -0400
+
+    created puzzle.c
+
+commit 3e89b96071ed1c9195aa06f4a3054b761b0d1abe
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Tue Oct 10 20:51:08 2023 -0400
+
+    Added helper declarations
+
+commit b6b1c56f57c905e9fe9abe350e94c2c8fc4334e6
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Tue Oct 10 20:05:01 2023 -0400
+
+    added .gitignore file
+
+commit c9220e7b2842f50c0ea42624446b61b81c126106
+Author: irivas4@jh.edu <irivas4@ugrad4.cs.jhu.edu>
+Date:   Tue Oct 10 20:04:02 2023 -0400
+
+    Uploaded midterm files
