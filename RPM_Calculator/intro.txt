@@ -1,1 +1,0 @@
-Using a Stack ADT I implemented a simple RPN calculator application.
