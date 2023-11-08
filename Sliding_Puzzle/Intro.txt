@@ -1,0 +1,1 @@
+//This project was done as a team, for the most part I implemented functions that worked with pointers, to read more about what I helped with, please read the README file, I am irivas4 or Itel.
